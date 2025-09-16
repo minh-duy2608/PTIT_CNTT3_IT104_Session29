@@ -1,0 +1,170 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Áo thun",
+      "image": "https://example.com/shirt.jpg",
+      "price": 150000,
+      "quantity": 10,
+      "created_at": "2025-09-16T19:00:00Z"
+    },
+    {
+      "id": 2,
+      "product_name": "Quần jeans",
+      "image": "https://example.com/jeans.jpg",
+      "price": 300000,
+      "quantity": 5,
+      "created_at": "2025-09-16T19:10:00Z"
+    },
+    {
+      "id": 1,
+      "product_name": "iPhone 14",
+      "image": "https://example.com/iphone14.jpg",
+      "price": 30000,
+      "quantity": 3,
+      "created_at": "2023-09-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "product_name": "Samsung Galaxy S22",
+      "image": "https://example.com/s22.jpg",
+      "price": 25000,
+      "quantity": 5,
+      "created_at": "2023-09-02T11:30:00Z"
+    },
+    {
+      "id": 3,
+      "product_name": "Xiaomi 12 Pro",
+      "image": "https://example.com/xiaomi12pro.jpg",
+      "price": 18000,
+      "quantity": 10,
+      "created_at": "2023-09-03T09:15:00Z"
+    },
+    {
+      "id": 4,
+      "product_name": "Oppo Reno8",
+      "image": "https://example.com/opporeno8.jpg",
+      "price": 16000,
+      "quantity": 7,
+      "created_at": "2023-09-04T14:45:00Z"
+    },
+    {
+      "id": 5,
+      "product_name": "Vivo V23",
+      "image": "https://example.com/vivov23.jpg",
+      "price": 17000,
+      "quantity": 6,
+      "created_at": "2023-09-05T08:00:00Z"
+    }
+  ],
+  "students": [
+    {
+      "id": 3,
+      "student_name": "Lê Văn C",
+      "email": "vanc@example.com",
+      "address": "Đà Nẵng",
+      "phone": "0909123456",
+      "status": true,
+      "created_at": "2023-09-03T08:45:00Z"
+    },
+    {
+      "id": 4,
+      "student_name": "Phạm Thị D",
+      "email": "thid@example.com",
+      "address": "Cần Thơ",
+      "phone": "0934567890",
+      "status": true,
+      "created_at": "2023-09-04T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "student_name": "Đỗ Văn E",
+      "email": "vane@example.com",
+      "address": "Huế",
+      "phone": "0978123456",
+      "status": false,
+      "created_at": "2023-09-05T14:15:00Z"
+    },
+    {
+      "student_name": "Nguyễn Thị Hồng",
+      "email": "hongnt@example.com",
+      "address": "Hải Phòng",
+      "phone": "0911222333",
+      "status": true,
+      "created_at": "2025-09-15T14:49:13.702Z",
+      "id": 6
+    },
+    {
+      "student_name": "Nguyễn Thị Hồng",
+      "email": "hongnt@example.com",
+      "address": "Hải Phòng",
+      "phone": "0911222333",
+      "status": true,
+      "created_at": "2025-09-15T14:49:14.495Z",
+      "id": 7
+    },
+    {
+      "student_name": "Nguyễn Thị Hồng",
+      "email": "hongnt@example.com",
+      "address": "Hải Phòng",
+      "phone": "0911222333",
+      "status": true,
+      "created_at": "2025-09-15T14:49:15.108Z",
+      "id": 8
+    },
+    {
+      "student_name": "Nguyễn Thị Hồng",
+      "email": "hongnt@example.com",
+      "address": "Hải Phòng",
+      "phone": "0911222333",
+      "status": true,
+      "created_at": "2025-09-15T14:49:20.691Z",
+      "id": 9
+    },
+    {
+      "student_name": "Nguyễn Thị Hồng",
+      "email": "hongnt@example.com",
+      "address": "Hải Phòng",
+      "phone": "0911222333",
+      "status": true,
+      "created_at": "2025-09-15T14:49:26.201Z",
+      "id": 10
+    },
+    {
+      "student_name": "Nguyễn Thị Hồng",
+      "email": "hongnt@example.com",
+      "address": "Hải Phòng",
+      "phone": "0911222333",
+      "status": true,
+      "created_at": "2025-09-15T14:49:27.184Z",
+      "id": 11
+    },
+    {
+      "student_name": "Nguyễn Thị Hồng",
+      "email": "hongnt@example.com",
+      "address": "Hải Phòng",
+      "phone": "0911222333",
+      "status": true,
+      "created_at": "2025-09-15T14:49:27.602Z",
+      "id": 12
+    },
+    {
+      "student_name": "Nguyễn Thị Hồng",
+      "email": "hongnt@example.com",
+      "address": "Hải Phòng",
+      "phone": "0911222333",
+      "status": true,
+      "created_at": "2025-09-15T14:49:27.898Z",
+      "id": 13
+    },
+    {
+      "student_name": "Nguyễn Thị Hồng",
+      "email": "hongnt@example.com",
+      "address": "Hải Phòng",
+      "phone": "0911222333",
+      "status": true,
+      "created_at": "2025-09-15T14:49:28.115Z",
+      "id": 14
+    }
+  ]
+}
